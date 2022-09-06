@@ -1,0 +1,30 @@
+.top{
+	width:40%;
+	display:block;
+	margin-left:30%;
+}
+.left{
+	width:100px;
+	font-size:15px;
+	
+}
+.object{
+	margin-left:30%;
+	margin-bottom:10%;
+	position: fixed;
+    top:60px;
+    bottom: 0;
+    left: 40px;	
+}
+.main{
+	margin-left:250px;
+}
+.re{
+	color:#fff;
+	font-size:30px;
+	background-color:#000;
+	height:50px;
+	border-radius: 5px 5px 5px 5px;
+	margin:45%;
+	
+}
